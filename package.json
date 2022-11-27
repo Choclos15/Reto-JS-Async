@@ -1,0 +1,23 @@
+{
+  "name": "reto-js-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Choclos15/Reto-JS-Async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Choclos15/Reto-JS-Async/issues"
+  },
+  "homepage": "https://github.com/Choclos15/Reto-JS-Async#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
